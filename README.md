@@ -5,7 +5,7 @@ I'm an aspiring software developer passionate about building real-world applicat
 ## My personal website
 - https://hayat-azimov.netlify.app/
 
-![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagucci&show_icons=true&theme=transparent)
+![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaetbek&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Skills
