@@ -1,18 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Khayotbek Azimov!
 
-<!--
-**xaetbek/xaetbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer passionate about building real-world applications that solve practical problems. I'm currently learning full-stack development and continuously improving my skills in object-oriented programming, web development, and software design.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Java, Python, JavaScript
+- **Technologies:** Git, GitHub, VS Code, IntelliJ
+- **Concepts:** OOP, Agile Methodologies, REST APIs
+- **Currently Learning:** React, Spring Boot, and SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Capstone Project
+- [**Accounting Ledger App**](https://github.com/xaetbek/LearnToCode_Capstones/tree/main/AccountingLedgerApp) – A console-based application that manages financial transactions and generates reports.
 
-Here is the link: https://github.com/xaetbek/LearnToCode_Capstones/tree/main/AccountingLedgerApp
+## 📫 Contact Me
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [linkedin.com/in/hayat-azimov](https://www.linkedin.com/in/hayat-azimov/)
+- 🧑‍💻 GitHub: [github.com/xaetbek](https://github.com/xaetbek)
+
