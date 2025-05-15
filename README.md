@@ -2,6 +2,9 @@
 
 I'm an aspiring software developer passionate about building real-world applications that solve practical problems. I'm currently learning full-stack development and continuously improving my skills in object-oriented programming, web development, and software design.
 
+## My personal website
+- https://hayat-azimov.netlify.app/
+
 ## 🛠️ Skills
 - **Languages:** Java, Python, JavaScript
 - **Technologies:** Git, GitHub, VS Code, IntelliJ
