@@ -5,6 +5,7 @@ I'm an aspiring software developer passionate about building real-world applicat
 ## My personal website
 - https://hayat-azimov.netlify.app/
 
+## Stats
 <div align="center">
 
   <!-- Streak Stats -->
@@ -14,10 +15,8 @@ I'm an aspiring software developer passionate about building real-world applicat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaetbek&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FF00" alt="Top Languages" height="180px"/>
 
 </div>
-<div align="center">
-  ![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaetbek&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaetbek&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Skills
 - **Languages:** Java, Python, JavaScript
