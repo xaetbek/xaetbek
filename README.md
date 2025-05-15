@@ -5,6 +5,8 @@ I'm an aspiring software developer passionate about building real-world applicat
 ## My personal website
 - https://hayat-azimov.netlify.app/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Skills
 - **Languages:** Java, Python, JavaScript
 - **Technologies:** Git, GitHub, VS Code, IntelliJ
