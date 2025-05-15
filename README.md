@@ -5,18 +5,16 @@ I'm an aspiring software developer passionate about building real-world applicat
 ## My personal website
 - https://hayat-azimov.netlify.app/
 
-## Stats
-<div align="center">
+<!-- ![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaetbek&show_icons=true&theme=transparent) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<div align="left">
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaetbek&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF" alt="GitHub Streak Stats" height="180px"/>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaetbek&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FF00" alt="Top Languages" height="180px"/>
-
 </div>
-![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaetbek&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Skills
 - **Languages:** Java, Python, JavaScript
