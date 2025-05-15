@@ -8,7 +8,7 @@ I'm an aspiring software developer passionate about building real-world applicat
 - **Concepts:** OOP, Agile Methodologies, REST APIs
 - **Currently Learning:** React, Spring Boot, and SQL
 
-## 📌 Capstone Project
+## 📌 Capstone Projects
 - [**Accounting Ledger App**](https://github.com/xaetbek/LearnToCode_Capstones/tree/main/AccountingLedgerApp) – A console-based application that manages financial transactions and generates reports.
 
 ## 📫 Contact Me
