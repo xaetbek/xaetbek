@@ -12,7 +12,7 @@ I'm an aspiring software developer passionate about building real-world applicat
 - [**Accounting Ledger App**](https://github.com/xaetbek/LearnToCode_Capstones/tree/main/AccountingLedgerApp) – A console-based application that manages financial transactions and generates reports.
 
 ## 📫 Contact Me
-- 📧 Email: your.email@example.com
+- 📧 Email: azimov.jobs@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/hayat-azimov](https://www.linkedin.com/in/hayat-azimov/)
 - 🧑‍💻 GitHub: [github.com/xaetbek](https://github.com/xaetbek)
 
