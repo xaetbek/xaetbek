@@ -1,10 +1,11 @@
-# 👋 Hi there, I'm Khayotbek Azimov!
+# 👋 Hi there, I'm Hayat Azimov!
 
 I'm an aspiring software developer passionate about building real-world applications that solve practical problems. I'm currently learning full-stack development and continuously improving my skills in object-oriented programming, web development, and software design.
 
 ## My personal website
 - https://hayat-azimov.netlify.app/
 
+![Hayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagucci&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Skills
